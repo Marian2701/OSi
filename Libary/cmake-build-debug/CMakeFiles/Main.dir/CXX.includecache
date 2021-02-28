@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../DynamicLibary/Vectored.h
+../StaticLibary/Number.h
+../StaticLibary/Number.h
+cmath
+../DynamicLibary/cmath
+
+../StaticLibary/Number.h
+iostream
+../StaticLibary/iostream
+
+C:/Users/marya/CLionProjects/Libary/main.cpp
+Number.h
+C:/Users/marya/CLionProjects/Libary/Number.h
+iostream
+C:/Users/marya/CLionProjects/Libary/iostream
+Vectored.h
+C:/Users/marya/CLionProjects/Libary/Vectored.h
+

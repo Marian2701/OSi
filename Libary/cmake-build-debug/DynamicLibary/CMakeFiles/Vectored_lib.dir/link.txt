@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Vectored_lib.dir/objects.a
+C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\ar.exe cr CMakeFiles\Vectored_lib.dir/objects.a @CMakeFiles\Vectored_lib.dir\objects1.rsp
+C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  -g  -shared -o libVectored_lib.dll -Wl,--out-implib,libVectored_lib.dll.a -Wl,--major-image-version,0,--minor-image-version,0 -Wl,--whole-archive CMakeFiles\Vectored_lib.dir/objects.a -Wl,--no-whole-archive @CMakeFiles\Vectored_lib.dir\linklibs.rsp
