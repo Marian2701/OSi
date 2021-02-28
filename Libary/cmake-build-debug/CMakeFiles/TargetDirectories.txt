@@ -1,0 +1,9 @@
+C:/Users/marya/CLionProjects/Libary/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/marya/CLionProjects/Libary/cmake-build-debug/CMakeFiles/Main.dir
+C:/Users/marya/CLionProjects/Libary/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/marya/CLionProjects/Libary/cmake-build-debug/StaticLibary/CMakeFiles/Number_lib.dir
+C:/Users/marya/CLionProjects/Libary/cmake-build-debug/StaticLibary/CMakeFiles/edit_cache.dir
+C:/Users/marya/CLionProjects/Libary/cmake-build-debug/StaticLibary/CMakeFiles/rebuild_cache.dir
+C:/Users/marya/CLionProjects/Libary/cmake-build-debug/DynamicLibary/CMakeFiles/Vectored_lib.dir
+C:/Users/marya/CLionProjects/Libary/cmake-build-debug/DynamicLibary/CMakeFiles/edit_cache.dir
+C:/Users/marya/CLionProjects/Libary/cmake-build-debug/DynamicLibary/CMakeFiles/rebuild_cache.dir
